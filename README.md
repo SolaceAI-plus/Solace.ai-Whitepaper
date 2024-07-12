@@ -72,7 +72,7 @@
 
 **Solace.ai Whitepaper**
 
-1\. Introduction
+### 1. Introduction <a href="#utsd8c9jqsp8" id="utsd8c9jqsp8"></a>
 
 ### 1.1 Project Vision <a href="#id-3rhnpnqk1hec" id="id-3rhnpnqk1hec"></a>
 
@@ -82,8 +82,6 @@ Additionally, Solace.ai will help users cast and cultivate their own digital lif
 
 Solace.ai aims to create a future-oriented digital ecosystem that encompasses basic AI services, a decentralized data marketplace, and digital life. Users can fully control their data and achieve value growth through data assetization. Meanwhile, the platform provides a comprehensive and personalized data service experience, aiming to innovate data value while ensuring data ownership protection.
 
-### &#x20;<a href="#ywq5iw7aezq2" id="ywq5iw7aezq2"></a>
-
 ### 1.2 Technological innovation and social value <a href="#ypw6pp25kmzd" id="ypw6pp25kmzd"></a>
 
 Solace.ai combines the cutting-edge technology of blockchain with the wisdom of artificial intelligence to build a decentralized data ecosystem for users that leads the future.
@@ -92,7 +90,7 @@ Solace's innovation not only improves the efficiency and transparency of data tr
 
 By making data value truly accessible to the data owner, data is no longer an unreachable asset, but a social treasure that is widely respected and protected. Solace will lead this revolution in the value of data, creating a more just and prosperous digital ecosystem for the future.
 
-2\. Industry Background
+### 2. Industry Background <a href="#cf8yzqln5sux" id="cf8yzqln5sux"></a>
 
 ### 2.1 Current market analysis <a href="#id-5yfz18zdrksn" id="id-5yfz18zdrksn"></a>
 
@@ -118,8 +116,6 @@ The current data ecology faces many challenges. The concentration of data
 
 storage and processing in the hands of a few large technology companies has led to the siloing of data, limiting the potential value of data. Meanwhile, also exacerbate user concerns about data privacy and security. Therefore, the opacity and unfairness of the data market are becoming increasingly prominent, and new technological solutions are urgently needed to improve.
 
-### &#x20;<a href="#xibxyexcvqfq" id="xibxyexcvqfq"></a>
-
 ### 2.2 Importance of data decentralization <a href="#xuwmd97ywhxs" id="xuwmd97ywhxs"></a>
 
 In the wave of digitalization, decentralized data storage transfers the dominance of data from a single centralized server to a participatory distributed network, where each node becomes the guardian and manager of data. This change not only improves the security and anti-attack
@@ -142,7 +138,7 @@ Solace.ai is committed to reshaping the ecological landscape of data and creatin
 
 Solace.ai will eliminate data silos, empower each individual and organization to independently control the power, and build an open data sharing platform, so that the potential of data can be fully released and shared. At the same time, we take user privacy and data security as the core, and provide strong protection and support for every creator and owner of data.
 
-3\. Solace.ai product positioning and core concept
+### 3. Solace.ai product positioning and core concept <a href="#id-6uewgoqcams5" id="id-6uewgoqcams5"></a>
 
 ### 3.1 Multi-modal large model aggregation <a href="#ksr38ve8g8bz" id="ksr38ve8g8bz"></a>
 
@@ -192,7 +188,7 @@ receive an immediate service experience while also receiving actual financial be
 
 ### 3.4 Digital Life <a href="#sieebv5ps1f0" id="sieebv5ps1f0"></a>
 
-### 3.4.1 The meaning of creating digital life <a href="#id-538hxjoism8f" id="id-538hxjoism8f"></a>
+#### 3.4.1 The meaning of creating digital life <a href="#id-538hxjoism8f" id="id-538hxjoism8f"></a>
 
 Through the learning of user data and analysis of their behavior patterns, Solace.ai creates digital entities in a Web3 world. This concept transcends the limitations of real life, allowing users to experience the possibilities of self-extension and self-expression in the digital realm.
 
@@ -202,7 +198,7 @@ The function of digital life is not only to simulate but also to let you find a 
 
 In the vision of Solace.ai, digital life is a bridge connecting reality and the digital realm, providing users with unlimited opportunities for self-expression and extension, allowing you to discover and show your true self in the digital world, demonstrating unique values and personalities.
 
-### 3.4.2 Realization and application of digital life <a href="#i2k87dbhm9an" id="i2k87dbhm9an"></a>
+#### 3.4.2 Realization and application of digital life <a href="#i2k87dbhm9an" id="i2k87dbhm9an"></a>
 
 At Solace, platform are not only envisioning a future where digital life dances with human ambition, we are shaping it. Our platform empowers users in the form of a digital identity, opening up new frontiers of monetization and self-actualization. This is not only a leap in technology, but also a profound exploration of personal potential.
 
@@ -222,15 +218,15 @@ Solace's digital life is the perfect combination of technology and user creativi
 
 Every digital interaction and transaction of a user is securely recorded on the blockchain, ensuring that their contribution is immutable and permanent. This is not only a recognition of individual achievements, but also an affirmation of the value of individuals in the digital economy. With Solace.ai, we invite users into a new era where their digital lives are not only a medium for self-expression, but also a way of profitability and economic growth. We believe that by giving users the power to control their digital identities, and open up a new digital era of opportunity and possibility.
 
-4\. Technical Architecture and Product Innovation
+### 4. Technical Architecture and Product Innovation <a href="#id-7gb3n0scskyg" id="id-7gb3n0scskyg"></a>
 
 ### 4.1 Solace.ai technology stack and architecture <a href="#vkg5vuzg5fh0" id="vkg5vuzg5fh0"></a>
 
-### 4.1.1 Blockchain layer <a href="#id-9m3y943h1ft3" id="id-9m3y943h1ft3"></a>
+#### 4.1.1 Blockchain layer <a href="#id-9m3y943h1ft3" id="id-9m3y943h1ft3"></a>
 
 Solace is built on the Solana public chain, leveraging its high-performance blockchain platform to enable fast transaction confirmation and low transaction fees. Solana's high throughput characteristics are ideal for handling large volumes of data transactions while maintaining the decentralization and security of the system.
 
-### 4.1.2 AI-driven data processing layer <a href="#b2px4sgznfv9" id="b2px4sgznfv9"></a>
+#### 4.1.2 AI-driven data processing layer <a href="#b2px4sgznfv9" id="b2px4sgznfv9"></a>
 
 **Deep Learning and Machine Learning**: Using frameworks such as TensorFlow and PyTorch, Solace deployable deep learning models for complex analysis, including image and speech recognition, as well as predictive data analytics. In particular, Solace uses vector data training to optimize deep learning models, improving their accuracy and generalization by processing and learning patterns in high-dimensional data Spaces.
 
@@ -238,7 +234,7 @@ Solace is built on the Solana public chain, leveraging its high-performance bloc
 
 **Vector data training**: Solace.ai has a special emphasis on the training of vector data for converting raw data into numerical feature vectors for training and optimizing machine learning models. So far, Solace.ai is able to process and analyze text, images, and other unstructured data more efficiently.
 
-### 4.1.3 Smart contract <a href="#po7luaguxe0f" id="po7luaguxe0f"></a>
+#### 4.1.3 Smart contract <a href="#po7luaguxe0f" id="po7luaguxe0f"></a>
 
 **Ai-enhanced Smart contracts**: Solace.ai's smart contracts not only automatically execute transactions, but also embed AI algorithms to enable dynamic pricing, risk assessment and fraud detection. These smart contracts are able to adjust themselves based on real-time market data and user behavior patterns.
 
@@ -300,7 +296,7 @@ Through zero-knowledge Proof, Solace is committed to building a secure, transpar
 
 **5) Continuous monitoring and response**: establish a 24/7 security monitoring and emergency response mechanism to detect and respond to security incidents in a timely manner.
 
-5\. Privacy Protection and Data Sharing
+### 5. Privacy Protection and Data Sharing <a href="#g0md8f22vbyb" id="g0md8f22vbyb"></a>
 
 ### 5.1 Transparent privacy policy <a href="#id-2rogcq14cp4e" id="id-2rogcq14cp4e"></a>
 
@@ -324,7 +320,7 @@ Following the principle of data minimization, Solace.ai collects only the data t
 
 Solace.ai advocates community governance so that every member of the platform can participate in the management and decision-making of the platform. We will use the DAO (Decentralized Autonomous Organization) model to allow users to make decisions on important issues of the platform through token voting, such as changes to privacy policies, the development of data sharing rules, etc. This model not only enhances the transparency and fairness of the platform, but also gives users more participation and a sense of belonging in the development of the platform.
 
-6\. Community and Ecological Construction
+### 6. Community and Ecological Construction <a href="#gr8uq1efgobe" id="gr8uq1efgobe"></a>
 
 ### 6.1 Community building strategy <a href="#wmdfzkp0vf5c" id="wmdfzkp0vf5c"></a>
 
@@ -378,7 +374,7 @@ ecosystem development. To this end, we are committed to providing a comprehensiv
 
 Through these measures, Solace.ai aims to create a supportive environment for developers to focus on innovation and creativity while ensuring that their work delivers maximum value and impact to the community as a whole.
 
-7\. Project road map
+### 7. Project road map <a href="#hwqanq9g07yl" id="hwqanq9g07yl"></a>
 
 **2023.Q4-2024.Q1**
 
@@ -428,7 +424,7 @@ Through these measures, Solace.ai aims to create a supportive environment for de
 
 ● Explore new technological frontiers and make milestone contributions to the future Web3 ecosystem
 
-8\. Conclusion and Gratitude
+### 8. Conclusion and Gratitude <a href="#y8ckl7cus77z" id="y8ckl7cus77z"></a>
 
 ### 8.1 Reaffirmation of project vision <a href="#id-1yq8xhrn5o41" id="id-1yq8xhrn5o41"></a>
 
